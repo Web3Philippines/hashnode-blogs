@@ -1,4 +1,4 @@
-## Meeting #3: Open Source Plans
+## Meeting #3: Open Source Project Plans
 
 Hey ka-batak! 🔥
 
