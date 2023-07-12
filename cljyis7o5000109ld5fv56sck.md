@@ -71,9 +71,9 @@ If you appreciate the work we do and want to contribute to our mission, we have 
 
 ## Summary
 
-Web3 Philippines, the first and primary web3 community in the Philippines, was established in 2022 by *Waren Gonzaga*, along with co-founders *Beau Zabdiel Valoria*, *Kristian Quirapas*, and *Alleo Indong*. We have introduced the [Matuto browser extension](https://github.com/web3phl/matuto#-download) to streamline the learning experience for users. Currently, the focus is on developing protocols, applications, and tools to establish a use case for Web3. They aim to launch three projects in the third quarter of 2023 and are considering a potential side project named *"Musta"* or *"Kumusta."* We also introduced the [*Web3 PH: Proof of Knowledge*](https://opensea.io/collection/web3ph-proof-of-knowledge) program and launched their [*GitHub Sponsors*](https://github.com/sponsors/web3phl) page for supporters.
+Web3 Philippines, the first and primary web3 community in the Philippines, was established in 2022 by *Waren Gonzaga*, along with co-founders *Beau Zabdiel Valoria*, *Kristian Quirapas*, and *Alleo Indong*. We have introduced the [Matuto browser extension](https://github.com/web3phl/matuto#-download) to streamline the learning experience for users. Currently, the focus is on developing protocols, applications, and tools to establish a use case for Web3. We aim to launch three projects in the third quarter of 2023 and are considering a potential side project named *"Musta"* or *"Kumusta."* We also introduced the [*Web3 PH: Proof of Knowledge*](https://opensea.io/collection/web3ph-proof-of-knowledge) program and launched our [*GitHub Sponsors*](https://github.com/sponsors/web3phl) page for supporters.
 
-## Your Next Steps
+## Next Steps
 
 Join our Facebook Group!  
 https://facebook.com/groups/web3philippines
