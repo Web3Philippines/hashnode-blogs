@@ -1,15 +1,15 @@
 ---
-title: "Web3 PH is building a Web3-empowered Philippines"
+title: "Web3 PHL is building a Web3-empowered Philippines"
 datePublished: Tue Jul 11 2023 16:41:49 GMT+0000 (Coordinated Universal Time)
 cuid: cljyis7o5000109ld5fv56sck
-slug: web3-ph-is-building-a-web3-empowered-philippines
+slug: web3-phl-is-building-a-web3-empowered-philippines
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689093519701/89a28f07-cfee-4ea3-a5a9-c8048c481159.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689093607072/181a9068-79e3-474f-a6bb-ebd98fd1fda6.png
-tags: news, community, web3, updates, philippines
+tags: web3, updates, philippines, web3ph, web3phl
 
 ---
 
-In 2023, the Web3 PH (Web3 Philippines) team aims to establish a Web3-empowered Philippines by developing protocols, programs, and tools to bolster the Web3 ecosystem and its potential in the nation. 🚀
+In 2023, the Web3 PHL (Web3 Philippines) team aims to establish a Web3-empowered Philippines by developing protocols, programs, and tools to bolster the Web3 ecosystem and its potential in the nation. 🚀
 
 Web3 Philippines was founded on March 1, 2022, by [Waren Gonzaga](https://github.com/warengonzaga), and later co-founded by [Beau Zabdiel Valoria](https://github.com/Zabbb), [Kristian Quirapas](https://github.com/kquirapas), and [Alleo Indong](https://github.com/aindong). The first Web3 Philippines meetup was held on September 30, 2022, at Draper Startup House Manila, and was sponsored by Likha, thirdweb, and YOYO Holdings. 💖
 
