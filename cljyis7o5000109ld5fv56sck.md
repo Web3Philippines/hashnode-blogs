@@ -2,7 +2,7 @@
 title: "Web3 PHL is building a Web3-empowered Philippines"
 datePublished: Tue Jul 11 2023 16:41:49 GMT+0000 (Coordinated Universal Time)
 cuid: cljyis7o5000109ld5fv56sck
-slug: web3-phl-is-building-a-web3-empowered-philippines
+slug: web3ph-is-building-a-web3-empowered-philippines
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689093519701/89a28f07-cfee-4ea3-a5a9-c8048c481159.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689093607072/181a9068-79e3-474f-a6bb-ebd98fd1fda6.png
 tags: web3, updates, philippines, web3ph, web3phl
