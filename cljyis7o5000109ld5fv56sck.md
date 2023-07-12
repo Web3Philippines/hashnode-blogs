@@ -53,9 +53,25 @@ Here are the projects we are planning to release this Q3 of this year.
 <div data-node-type="callout-text">We are also planning to release some side projects. The first potential side project to be launched is "Musta" or "Kumusta," which is a Tagalog term for "Hello."</div>
 </div>
 
+## Other Updates
+
+Hold on, there's even more exciting news to share! We have a variety of additional updates that we'd like to present to our valued community members just like you.
+
+### Proof of Knowledge
+
+[![The proof of knowledge token by Web3 Philippines](https://cdn.hashnode.com/res/hashnode/image/upload/v1689149931973/df7de5e1-3fa7-4341-8c1c-47aa478ff8d5.png align="center")](https://opensea.io/collection/web3ph-proof-of-knowledge)
+
+We are absolutely thrilled to announce the introduction of our unique and innovative program, [**Web3 PH: Proof of Knowledge**](https://opensea.io/collection/web3ph-proof-of-knowledge), specifically designed for our dedicated community members. This exciting new POK ERC-1155 token standard will allow participants to claim NFTs during various events and activities, further enhancing their experience and engagement within the community. Our team has put in considerable effort to develop this concept, ensuring that it not only fosters a sense of achievement but also encourages continuous learning and growth among our members. So, gear up for an enriching journey as we unveil the **Web3 PH: Proof of Knowledge** *(Web3PH: POK)*, and make the most of the opportunities it presents!
+
+### GitHub Sponsors
+
+[![GitHub Sponsors page of Web3 Philippines](https://cdn.hashnode.com/res/hashnode/image/upload/v1689155172948/f5a3bb55-de22-48f8-ae85-201072df603b.png align="center")](https://github.com/sponsors/web3phl)
+
+If you appreciate the work we do and want to contribute to our mission, we have some great news for you! We recently launched our [GitHub Sponsors](https://github.com/sponsors/web3phl) page, offering you a convenient platform to support the projects and initiatives you love. By becoming a sponsor, you can help us continue to innovate, expand our reach, and make a lasting impact on the web3 community. So, don't hesitate to show your support and contribute to our ongoing efforts in building the web3-empowered Philippines.
+
 ## Summary
 
-Web3 Philippines, the first and primary web3 community in the Philippines, was established in 2022 by *Waren Gonzaga*, along with co-founders *Beau Zabdiel Valoria*, *Kristian Quirapas*, and *Alleo Indong*. We have introduced the [Matuto browser extension](https://github.com/web3phl/matuto#-download) to streamline the learning experience for users. Currently, the focus is on developing protocols, applications, and tools to establish a use case for Web3. They aim to launch three projects in the third quarter of 2023 and are considering a potential side project named "Musta" or "Kumusta."
+Web3 Philippines, the first and primary web3 community in the Philippines, was established in 2022 by *Waren Gonzaga*, along with co-founders *Beau Zabdiel Valoria*, *Kristian Quirapas*, and *Alleo Indong*. We have introduced the [Matuto browser extension](https://github.com/web3phl/matuto#-download) to streamline the learning experience for users. Currently, the focus is on developing protocols, applications, and tools to establish a use case for Web3. They aim to launch three projects in the third quarter of 2023 and are considering a potential side project named *"Musta"* or *"Kumusta."* We also introduced the [*Web3 PH: Proof of Knowledge*](https://opensea.io/collection/web3ph-proof-of-knowledge) program and launched their [*GitHub Sponsors*](https://github.com/sponsors/web3phl) page for supporters.
 
 ## Your Next Steps
 
